@@ -27,7 +27,7 @@ int main()
         cout << "Input a digit ";
     }
        
-    cout << "Choose part: input 1 or 2" << endl;
+    cout << "Choose part: input 1 (preorders) or 2 (insertion/extraction)" << endl;
 
     while (!(cin >> var))
     {
